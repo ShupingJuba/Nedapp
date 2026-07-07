@@ -1,0 +1,2 @@
+C:\Users\w7162299\Downloads\NedapStockExporter_7017\NedapStockExporter\publish\win-x64\NedapStockExporter.pdb
+C:\Users\w7162299\Downloads\NedapStockExporter_7017\NedapStockExporter\publish\win-x64\NedapStockExporter.exe
