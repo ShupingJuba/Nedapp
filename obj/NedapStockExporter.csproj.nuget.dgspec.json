@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\NedapStockExporter.csproj": {}
+    "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\Nedapp\\NedapStockExporter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\NedapStockExporter.csproj": {
+    "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\Nedapp\\NedapStockExporter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\NedapStockExporter.csproj",
+        "projectUniqueName": "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\Nedapp\\NedapStockExporter.csproj",
         "projectName": "NedapStockExporter",
-        "projectPath": "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\NedapStockExporter.csproj",
+        "projectPath": "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\Nedapp\\NedapStockExporter.csproj",
         "packagesPath": "C:\\Users\\w7162299\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\obj\\",
+        "outputPath": "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\Nedapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

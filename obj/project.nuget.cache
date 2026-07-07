@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n6EnrhRMCxSQ/6SUKPcLxcNu40IfvN4ADAgvnIYqnggDZZSjJQk3+VEepQAyywYTlQyKe6vQ/B0U6EUArDkiDQ==",
+  "dgSpecHash": "5D7VIXwxi62Yd1sZ6E7ZYWcCPqe46Ks0fXiV75sVaEd1J8QtSEj64io9l2Av+UCvnwYZnUyMeFSzH2OChn8Deg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\NedapStockExporter.csproj",
+  "projectFilePath": "C:\\Users\\w7162299\\Desktop\\New folder\\NedapStockExporter_7017\\NedapStockExporter\\Nedapp\\NedapStockExporter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w7162299\\.nuget\\packages\\closedxml\\0.102.2\\closedxml.0.102.2.nupkg.sha512",
     "C:\\Users\\w7162299\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
