@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NedapStockExporter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6c2c6cb744e9d4df78dab3fcffb330596aa6f86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3910018a5de5f4a997c8b33b9911a7401d0a89d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NedapStockExporter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NedapStockExporter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
